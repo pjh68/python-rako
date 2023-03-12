@@ -2,8 +2,11 @@
 
 ## About this fork
 This fork is even more experimental that the original!
+
 I understand the original author, marengaz, is no longer a Rako user and thus isn't maintaining this package.
+
 I've forked this (March 2023) in an attempt to get something working with my own Home Assistant setup. I'll only be patching this sufficiently to get it working for my own purposes.
+
 I do intend to create a Home Assistant custom component, via HACS. I'll make that available and link to that repo from here once it's built. I'm likely to take a very different approach than previous attempts at integrating Rako as light: treating the Rako keypads as input devices and firing custom events so I can build automations off those. This will allow me to repurpose my existing keypads for all sorts of fun and games!
 
 
